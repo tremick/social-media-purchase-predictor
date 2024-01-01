@@ -9,12 +9,12 @@ This repository demonstrates the use of Gaussian Naive Bayes classification to p
 The dataset used for training is located in the Resources folder: `whoBoughtSocialMediaCampaign.csv`. It includes features such as age, salary, and gender.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/social-media-purchase-predictor.git`
+1. Clone the repository: `git clone https://github.com/tremick/social-media-purchase-predictor.git`
 2. Navigate to the repository: `cd social-media-purchase-predictor`
 3. Install dependencies: `pip install -r requirements.txt` (if needed)
 
 ## Usage
-1. Run the script: `python social_media_predictor.py`
+1. Run the script: `GAUSSIAN ALGORITHIM.ipynb`
 2. Enter the user's age, salary, and gender when prompted.
 3. The script will provide a prediction on whether the user is likely to make a purchase.
 
