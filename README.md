@@ -11,7 +11,7 @@ The dataset used for training is located in the Resources folder: `whoBoughtSoci
 ## Usage
 1. Run the script: `GAUSSIAN ALGORITHIM.ipynb`
 2. Enter the user's age, salary, and gender when prompted.
-3. The script will provide a prediction on whether the user is likely to make a purchase.
+3. The script will provide a prediction on whether the user is likely to make a purchase
 
 ## Dependencies
 - pandas
